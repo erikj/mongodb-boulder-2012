@@ -4,6 +4,8 @@
 
 <http://www.10gen.com/events/mongo-boulder>
 
+<http://www.10gen.com/presentations>
+
 ## notes
 
 - opening address from 10gem president Mac Schireson
